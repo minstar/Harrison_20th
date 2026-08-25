@@ -46,6 +46,33 @@
 | Testing Threshold | 검사 역치 | 1 | 이하는 검사 없이 배제 |
 | Treatment Threshold | 치료 역치 | 1 | 이상은 검사 없이 치료 |
 | Tympany | 고음 | 1 | 타진음 |
+| Absolute Risk Reduction (ARR) | 절대위험감소 | 1 | NNT = 1/ARR |
+| Bayes' Rule | 베이즈 정리 | 1 | anchoring bias 회피 장치 |
+| Compression of Morbidity | 이환 기간의 압축 | 1 | 예방의 궁극 목표 |
+| Computerized Physician Order Entry (CPOE) | 전산화 처방입력 | 1 | 중대 약물 오류 55% 감소 |
+| Decision Analysis | 의사결정 분석 | 1 | 규범적·처방적 접근 |
+| Lead Time Bias | 조기발견 편향 | 1 | 검진 연구의 핵심 함정 |
+| Length Time Bias | 기간 편향 | 1 | 서서히 진행하는 질병 과대표집 |
+| Meta-analysis | 메타분석 | 1 | 원 시험이 부실하면 해결책 아님 |
+| Mistake | 착오 | 1 | 고수준 오류. slip과 예방 전략이 다름 |
+| Moral Distress | 도덕적 고뇌 | 1 | |
+| Motivational Interviewing | 동기 면담 | 1 | |
+| Number Needed to Treat (NNT) | 치료필요수 | 1 | 치료 반응의 동질성을 가정 → HTE 문제 |
+| Overdiagnosis | 과잉진단 | 1 | 유방암 15–40%, 전립선암 15–37% |
+| Palliative Sedation | 완화적 진정 | 1 | |
+| Primary Prevention | 1차 예방 | 1 | 위험인자 보유자의 발병 방지 |
+| Primordial Prevention | 0차 예방 | 1 | 위험인자 자체의 발생 방지 |
+| Publication Bias | 출판 편향 | 1 | 미발표 시험 포함으로 완화 |
+| P-SPIKES | 나쁜 소식 전달 프로토콜 | 1 | Ch.9 |
+| Quality-Adjusted Life-Year (QALY) | 질보정수명 | 1 | $50,000–100,000/QALY 기준 |
+| Secondary Prevention | 2차 예방 | 1 | 재발·진행 방지 |
+| Shared Decision-Making | 공유 의사결정 | 1 | |
+| Slip | 실수 | 1 | 저수준·반자동 행동에서 발생 |
+| Social Health Insurance (SHI) | 사회건강보험 | 1 | |
+| Squaring the Curve | 곡선의 직각화 | 1 | |
+| Swiss Cheese Model | 스위스 치즈 모델 | 1 | Reason. 잠재 실패의 정렬 |
+| Tertiary Prevention | 3차 예방 | 1 | 급성기 사망 방지 |
+| Virtue Ethics | 덕 윤리 | 1 | 원칙이 아닌 인격 중심 |
 
 ---
 
